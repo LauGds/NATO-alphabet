@@ -12,5 +12,3 @@ while is_on:
     else:
         print(phonetic_list)
         is_on = False
-
-
